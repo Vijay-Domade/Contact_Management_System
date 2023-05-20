@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+.control
+{
+	width:400px;
+	height:40px;
+	
+}
+ul
+{
+	list-style-type:none;
+	width:100%;
+	padding:10px;
+	background-color:black;
+}
+ul li
+{
+	display:inline;
+	padding:10px;
+}
+ul li a {
+	text-decoration:none;
+	color:white;
+}
